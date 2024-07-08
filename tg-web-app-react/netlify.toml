@@ -1,4 +1,0 @@
-[build]
-  base = "tg-web-app-react"
-  command = "npm run build"
-  publish = "build"
